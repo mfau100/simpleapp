@@ -37,7 +37,7 @@ items:
     resources: {}
     source:
       git:
-        uri: https://github.com/sandervanvugt/simpleapp
+        uri: https://github.com/mfau100/simpleapp
       type: Git
     strategy:
       sourceStrategy:
